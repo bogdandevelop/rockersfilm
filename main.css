@@ -1,0 +1,487 @@
+
+    body{
+      font-family: Arial, sans-serif;
+      padding: 0;
+      margin: 0;
+      background: url(img/fon2.jpg)  ;
+      width: 100%;
+   
+    
+      }
+  
+
+    
+
+    .clearfix:after {
+    content:'';
+    display: table;
+    width: 100%;
+    clear: both;
+    }
+  
+
+
+
+
+
+
+
+
+
+    @media screen and (min-width: 25px) and (max-width: 360px) {
+    
+      
+     
+
+
+
+
+
+    
+    #logo{
+        background-color: rgba(0, 0, 0, 0.507);
+        height: 50px;
+        width: 100%;
+      position: fixed;
+    }
+
+    #logo_img{
+        height: 50px;
+     
+      margin-left: 10px;
+     
+     float: left;
+    
+    }
+
+    #fon1{
+     width: 100%;
+     height:auto;
+ 
+     
+   
+        }
+
+
+     #fon1_img{
+        width: 100%;
+      
+    
+      
+         }
+
+
+
+         #menu {
+            width: 100%;
+            height: auto;
+            margin-top: 5px;
+            background-color: rgb(255, 255, 255);
+            color: black;
+            margin-left: 1%;
+            float: left;
+            text-decoration: none;
+            border-radius: 25%;
+           
+        }
+
+         #text3 {
+            font-family: Georgia;
+            margin-left: 22%;
+            padding-top: 1%;
+         padding-bottom: 1%;
+            font-size: 9px;
+            color: rgb(0, 0, 0);
+        }
+
+
+
+        #text2 {
+        height: auto;
+     margin-left: 6px;
+       
+      padding-bottom: 1%;
+         font-size: 11px;
+         color: rgb(0, 0, 0);
+     }
+
+
+
+
+
+
+
+
+
+#film1{
+    background-color: rgb(255, 255, 255);
+    height: auto;
+ margin-top: 25px;
+ width: 100%;
+ border-radius: 8px;
+}
+
+
+
+.film_bord{
+    background-color: black;
+    height: auto;
+    border-radius: 20px;
+    border-radius: 9px;
+   padding-bottom: 1%;
+}
+
+
+.film_text1{
+   color: rgb(255, 255, 255);
+   font-size: 10px;
+ 
+   margin-left: 5%;
+   height: auto;
+}
+
+
+
+    
+   
+           
+.block1{
+   height: 100px;
+   width: 64px;
+   background-color: rgb(255, 255, 255);
+   float: left;
+}
+
+
+.block1_1{
+   height: 80px;
+   width: 55px;
+   background-color: rgb(255, 255, 255);
+   margin-left: 4px;
+}
+
+
+
+
+
+
+
+#foto2{
+
+background-color: rgb(255, 255, 255);
+
+width: 80%;
+height: 100px;
+float: left;
+
+}
+
+
+.scrolling{
+height: 100px;
+width: 285px;
+background-color: rgb(255, 255, 255);
+
+float: left;
+
+
+overflow-x: scroll;
+overflow-y: hidden;
+white-space: nowrap;
+word-wrap: normal;
+
+
+
+}
+
+
+
+#text_opis{
+   font-size: 12px;
+   margin-left: 5px;
+    margin-top: 105px;
+    padding-bottom: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*   ----------------------------------------------------------  */
+        }
+
+    
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+        @media screen and (min-width: 361px) and (max-width: 394px) {
+    
+
+        #logo{
+            background-color: rgba(0, 0, 0, 0.507);
+            height: 70px;
+            width: 100%;
+          position: fixed;
+        }
+    
+        #logo_img{
+            height: 70px;
+         
+          margin-left: 10px;
+         
+         float: left;
+        
+        }
+    
+        #fon1{
+         width: 100%;
+         height: auto;
+     
+         
+       
+            }
+    
+    
+         #fon1_img{
+            width: 100%;
+          
+        
+          
+             }
+    
+    
+
+
+
+
+
+
+             #menu {
+               width: 98%;
+               height: auto;
+               margin-top: 5px;
+               background-color: rgb(255, 255, 255);
+               color: black;
+               margin-left: 1%;
+               float: left;
+               text-decoration: none;
+               border-radius: 25%;
+              
+           }
+   
+            #text3 {
+               font-family: Georgia;
+               margin-left: 10%;
+               padding-top: 1%;
+            padding-bottom: 1%;
+               font-size: 15px;
+               color: rgb(0, 0, 0);
+           }
+   
+   
+   
+           #text2 {
+           height: auto;
+        margin-left: 6px;
+          
+         padding-bottom: 1%;
+            font-size: 11px;
+            color: rgb(0, 0, 0);
+        }
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   #film1{
+       background-color: rgb(255, 255, 255);
+       height: auto;
+    margin-top: 36px;
+    width: 100%;
+    border-radius: 8px;
+   }
+   
+   
+   
+   .film_bord{
+       background-color: black;
+       height: auto;
+       border-radius: 9px;
+   
+      padding-bottom: 1%;
+   }
+   
+   
+   .film_text1{
+      color: rgb(255, 255, 255);
+      font-size: 13px;
+    
+      margin-left: 5%;
+      height: auto;
+   }
+   
+   
+   
+       
+      
+              
+   .block1{
+      height: 100px;
+      width: 74px;
+      background-color: rgb(255, 255, 255);
+      float: left;
+   }
+   
+   
+   .block1_1{
+      height: 80px;
+      width: 63px;
+      background-color: rgb(255, 255, 255);
+      margin-left: 4px;
+   }
+   
+   
+   
+   
+   
+   
+   
+   #foto2{
+   
+   background-color: rgb(255, 255, 255);
+   
+   width: 80%;
+   height: 100px;
+   float: left;
+   
+   }
+   
+   
+   .scrolling{
+   height: 100px;
+   width: 285px;
+   background-color: rgb(255, 255, 255);
+   
+   float: left;
+   
+   
+   overflow-x: scroll;
+   overflow-y: hidden;
+   white-space: nowrap;
+   word-wrap: normal;
+   
+   
+   
+   }
+   
+   
+   
+#text_opis{
+   font-size: 14px;
+   margin-left: 5px;
+    margin-top: 109px;
+    padding-bottom: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+            }
+   
+    
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
